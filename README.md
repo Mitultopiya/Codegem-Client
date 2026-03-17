@@ -52,9 +52,6 @@ Codegem is a social media platform specifically targeted to programmers. They ca
 
 Codegem allows you to share and discover code snippets. Whether it's a clever algorithm or a creative solution, showcase your coding prowess with the community.
 
-## 🔗 Links
-
-- [Codegem Website](https://codegem.netlify.app)
 
 ## 🚀 More
 
